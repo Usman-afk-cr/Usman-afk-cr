@@ -1,146 +1,122 @@
-# Muhammad Usman
+# 👋 Hi, I'm Muhammad Usman
 
-### AI/ML | Data Science | Data Analytics | Agentic AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Data+Analytics;Exploring+Agentic+AI+%26+AI+Agents;Aspiring+Computer+Vision+Practitioner;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-usman-031182326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
   <a href="https://github.com/Usman-afk-cr">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/m-usman-031182326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-I am Muhammad Usman, an AI/ML and Data Science enthusiast focused on developing data-driven solutions, exploring intelligent systems, and applying analytical thinking to real-world problems.
+---
 
-My interests include machine learning, predictive modeling, data analytics, time-series forecasting, Agentic AI, and computer vision. I value continuous learning, practical implementation, research, and writing maintainable code.
+## 🧑‍💻 About Me
 
-- **Current Project:** Pakistan Air Quality Forecasting & Intelligence Platform
-- **Research:** Aircraft Engine Remaining Useful Life (RUL) Prediction
-- **AI Interests:** Machine Learning, AI Agents, Prompt Engineering, and Computer Vision
-- **Data Interests:** Statistical Modeling, Predictive Analytics, and Visualization
-- **Development:** Python, SQL, Docker, and MERN Stack
+I'm **Muhammad Usman**, passionate about Artificial Intelligence, Machine Learning, Data Science, and building practical, data-driven solutions.
+
+- 🔭 Currently working on **Pakistan Air Quality Forecasting**
+- 🛩️ Worked on **Aircraft Engine Remaining Useful Life (RUL) Prediction**
+- 📝 Recently wrote a research paper related to aircraft engine RUL prediction
+- 🤖 Exploring Agentic AI, AI Agents, and Prompt Engineering
+- 📊 Interested in predictive modeling, analytics, and time-series forecasting
+- 👁️ Aspiring Computer Vision practitioner
+- 🚀 Focused on continuous learning, research, and hands-on development
 
 ---
 
-## Research & Projects
+## 🚀 Featured Projects
 
-### Aircraft Engine Remaining Useful Life (RUL) Prediction
-**Predictive Maintenance | Machine Learning | Research**
+### 🌍 Pakistan Air Quality Forecasting
+`Python` `Time Series` `Data Science` `Public APIs`
 
-Worked on aircraft engine RUL prediction and recently wrote a research paper associated with this work.
+Currently developing a multi-city air-quality forecasting project for Pakistan, focusing on public data collection, time-series analysis, forecasting, and model evaluation.
 
-My research interests in this area include degradation modeling, remaining useful life estimation, predictive maintenance, and model evaluation.
+### ✈️ Aircraft Engine RUL Prediction
+`Machine Learning` `Predictive Maintenance` `Research`
 
-*Research paper details and publication status will be added when finalized.*
+Worked on predicting the Remaining Useful Life of aircraft engines and wrote a research paper associated with this project.
 
-### Pakistan Air Quality Forecasting & Intelligence Platform
-**Time Series Forecasting | Environmental Data Science | In Progress**
+### 📊 Data Analytics & Development
 
-Currently developing a multi-city Pakistan air-quality forecasting project using publicly accessible data sources.
+- 📈 [Road Accident Analysis Dashboard](https://github.com/Usman-afk-cr/Road-Accident-Analysis-Dashboard-Project)
+- 🍕 [Pizza Sales Power BI Dashboard](https://github.com/Usman-afk-cr/pizza-sales-Power-bi-dashboard)
+- 🍽️ [MERN Restaurant Reservation System](https://github.com/Usman-afk-cr/MERN-Restaurant-Reservation-System)
+- 🏦 [Bank Management System using MySQL](https://github.com/Usman-afk-cr/Bank-Management-System-Using-MySQL)
 
-- Public API data collection and validation
-- Time-series data preparation and exploratory analysis
-- Forecasting model development and evaluation
-- Investigation of temporal patterns and environmental trends
-- Planned dashboard for observations, forecasts, and data freshness
-
-The objective is to build a reproducible forecasting workflow that connects real-world data with useful analytical insights.
-
-### Other Projects
-
-Explore my repositories for data analytics, dashboards, database applications, and full-stack development.
-
-- [Road Accident Analysis Dashboard](https://github.com/Usman-afk-cr/Road-Accident-Analysis-Dashboard-Project)
-- [Pizza Sales Power BI Dashboard](https://github.com/Usman-afk-cr/pizza-sales-Power-bi-dashboard)
-- [MERN Restaurant Reservation System](https://github.com/Usman-afk-cr/MERN-Restaurant-Reservation-System)
-- [Bank Management System using MySQL](https://github.com/Usman-afk-cr/Bank-Management-System-Using-MySQL)
-- [Explore All Repositories](https://github.com/Usman-afk-cr?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Usman-afk-cr?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All_My_Repositories-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+  </a>
+</p>
 
 ---
 
-## Technical Skills
+## 🛠️ Languages & Tools
 
-**Programming Languages**
-
+### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
 </p>
 
-**AI, Machine Learning & Data Science**
-
+### AI, Data Science & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Science-276749?style=flat-square" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-1769AA?style=flat-square" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-6C5CE7?style=flat-square" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat-square" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-Aspiring-FF6F00?style=flat-square" alt="Computer Vision"/>
-</p>
-
-**Data Analysis & Scientific Computing**
-
-<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,sklearn" alt="Data science technologies"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </p>
 
-**Databases, Development & Tools**
-
+### Databases, Development & Tools
 <p>
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,git,github,vscode,react,nodejs,express" alt="Development tools"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/NoSQL-4479A1?style=flat-square" alt="NoSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MERN_Stack-3C873A?style=flat-square" alt="MERN"/>
-</p>
-
-**Research & AI Workflow Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Statistical_Modeling-34495E?style=flat-square" alt="Modeling"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf"/>
 </p>
 
 ---
 
-## GitHub Overview
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usman-afk-cr&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-afk-cr&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Usman-afk-cr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-afk-cr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Usman-afk-cr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## Connect With Me
+## 🐍 Contribution Activity
 
-I'm interested in opportunities involving AI/ML, data science, analytics, research, and building practical software solutions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Usman-afk-cr/Usman-afk-cr/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
 
-<p>
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/m-usman-031182326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Usman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Usman-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Usman-afk-cr">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
-**Learn continuously. Build with purpose. Turn data into solutions.**s
+<p align="center">
+  <i>💡 Learn continuously • Build consistently • Solve meaningful problems</i>
+</p>
