@@ -1,124 +1,144 @@
-# 👋 Hi, I'm Muhammad Usman
 
 <div align="center">
 
-<a href="https://github.com/Usman-afk-cr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E74C3C&center=true&vCenter=true&width=750&lines=AI%2FML+%26+Data+Science;Time-Series+Forecasting;Agentic+AI+%26+Computer+Vision;Building+Real-World+Intelligent+Systems" alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050B18,50:0A2342,100:0077B6&text=MUHAMMAD%20USMAN&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="Muhammad Usman developer banner"/>
 
-**AI/ML | Data Science | Agentic AI | Computer Vision | Full-Stack Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions;AI+%26+Data+Science+Enthusiast;Time-Series+Forecasting+%7C+MERN+Stack;Learn.+Build.+Innovate." alt="Animated developer tagline"/>
 
-<a href="https://github.com/Usman-afk-cr">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-</a>
-<a href="https://github.com/Usman-afk-cr?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Projects-E74C3C?style=for-the-badge&logo=github" alt="Explore Projects" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/Usman-afk-cr)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-0077B6?style=for-the-badge&logo=github)](https://github.com/Usman-afk-cr?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a technology enthusiast focused on building intelligent, data-driven applications and practical software solutions.
+I'm **Muhammad Usman**, a technology enthusiast interested in Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development. I enjoy turning ideas into practical applications through clean code, data-driven problem-solving, and continuous learning.
 
-- 🔭 **Currently building:** Pakistan Air Quality Forecasting & Intelligence Platform
-- 📊 **Interested in:** Time-Series Forecasting, Machine Learning, and Predictive Analytics
-- 🤖 **Exploring:** Agentic AI, Computer Vision, and intelligent automation
-- 💻 **Developing:** Python applications, APIs, and full-stack web projects
-- 🎯 **Goal:** Build reliable, reproducible, and production-oriented solutions
-- 🌱 **Mindset:** Continuous learning, experimentation, and real-world problem-solving
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### AI, Machine Learning & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Time_Series-6C3483?style=for-the-badge" alt="Time-Series Forecasting" />
-  <img src="https://img.shields.io/badge/Data_Science-2874A6?style=for-the-badge" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Computer_Vision-1ABC9C?style=for-the-badge" alt="Computer Vision" />
-</p>
-
-### Web Development & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+- 🔭 **Current Project:** Pakistan Air Quality Forecasting & Intelligence Platform
+- 🤖 **AI Interests:** Machine Learning, Predictive Modeling, Prompt Engineering, and AI Agents
+- 📊 **Data Interests:** Time-Series Forecasting, Data Analysis, and Visualization
+- 🌐 **Development:** MERN Stack, REST APIs, and responsive web applications
+- 🧰 **Tools:** Git, Docker, Jupyter Notebook, Power BI, and Overleaf
+- 🎯 **Goal:** Build reliable, maintainable software and intelligent systems that solve real-world problems.
 
 ---
 
-## 🌟 Featured Project
+## 🧠 Languages & Technologies
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML and CSS"/>
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-Database-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI, Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Modeling-6C3483?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive-Modeling-0077B6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8E44AD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-008C95?style=for-the-badge)
+
+### 📚 Data Libraries & Scientific Computing
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python ecosystem"/>
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🌐 Full-Stack Development — MERN
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express, React and Node.js"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript"/>
+</p>
+
+### 🗄️ Databases & Containers
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker" alt="SQL database, MongoDB and Docker"/>
+</p>
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 📊 Visualization & Productivity
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git, GitHub, VS Code and Jupyter"/>
+</p>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-LaTeX-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌫️ Pakistan Air Quality Forecasting & Intelligence Platform
 
-An ongoing time-series project focused on public air-quality observations across multiple cities in Pakistan.
+An ongoing multi-city time-series project focused on public air-quality observations in Pakistan.
 
-**Planned capabilities:**
 - Public API data collection and validation
-- Historical time-series analysis and feature engineering
-- Leakage-safe forecasting experiments
-- Model evaluation and prediction intervals
-- Interactive dashboard and data freshness monitoring
+- Time-series analysis and feature engineering
+- Leakage-safe model evaluation
+- Forecasting and prediction intervals
+- Planned dashboard and data freshness monitoring
 
-**Focus:** Data quality, reliable evaluation, and useful forecasts.
+### 🌐 Full-Stack Web Applications
+
+Building web applications using modern frontend and backend technologies, database integration, and REST APIs.
+
+> Project links will be added here as the repositories become ready to showcase.
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/Usman-afk-cr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usman-afk-cr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Usman-afk-cr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-afk-cr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Usman-afk-cr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-afk-cr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Usman-afk-cr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Usman-afk-cr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌱 Current Focus
 
-- Building end-to-end machine learning projects
-- Improving time-series forecasting and model validation
-- Exploring AI agents and computer vision applications
-- Developing maintainable, well-documented software
-- Learning production practices for real-world AI systems
+- Strengthening Machine Learning and forecasting skills
+- Developing data-driven applications
+- Practicing clean code, Git workflows, and documentation
+- Exploring AI agents and intelligent automation
+- Building portfolio projects with practical value
 
 ---
 
-## 🤝 Let's Connect
-
-- 💻 **GitHub:** [@Usman-afk-cr](https://github.com/Usman-afk-cr)
-- 📂 **Repositories:** [Explore my projects](https://github.com/Usman-afk-cr?tab=repositories)
+## 🤝 Connect
 
 <div align="center">
 
-### *Build. Learn. Experiment. Improve.*
+[![GitHub](https://img.shields.io/badge/GitHub-Usman--afk--cr-181717?style=for-the-badge&logo=github)](https://github.com/Usman-afk-cr)
 
-<img src="https://komarev.com/ghpvc/?username=Usman-afk-cr&style=flat-square&color=E74C3C" alt="Profile views" />
+**Learn · Build · Innovate**
 
 </div>
