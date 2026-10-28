@@ -142,7 +142,11 @@ Worked on predicting aircraft engine remaining useful life, with a focus on degr
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Usman-afk-cr/Usman-afk-cr/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Usman-afk-cr/Usman-afk-cr/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
 </p>
 
 ---
