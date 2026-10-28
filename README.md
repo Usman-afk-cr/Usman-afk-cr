@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muhammad Usman**, an aspiring AI/ML and Data Science professional passionate about developing practical, data-driven solutions and intelligent systems.
+I'm **Muhammad Usman**, an AI/ML Engineer and Data Science professional passionate about developing practical, data-driven solutions and intelligent systems.
 
 My interests include machine learning, data analytics, predictive modeling, time-series forecasting, Agentic AI, and computer vision. I enjoy exploring new technologies, working on research-oriented projects, and turning ideas into practical applications.
 
